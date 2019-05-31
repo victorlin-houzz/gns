@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - User Photos\n"
+"POT-Creation-Date: 2018-11-12 14:39+0200\n"
+"PO-Revision-Date: 2018-11-12 14:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-user-photos.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-admin.php:36
+msgid "User Photos License Key"
+msgstr ""
+
+#: includes/admin/class-admin.php:44
+#: includes/core/class-user-photos-common.php:34
+#: includes/core/class-user-photos-common.php:35
+#: includes/core/class-user-photos-common.php:61
+msgid "User Photos"
+msgstr ""
+
+#: includes/admin/class-admin.php:51 includes/admin/class-admin.php:65
+msgid "No. of columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:52 includes/admin/class-admin.php:66
+msgid "2 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:53 includes/admin/class-admin.php:67
+msgid "3 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:54 includes/admin/class-admin.php:68
+msgid "4 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:55 includes/admin/class-admin.php:69
+msgid "5 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:56 includes/admin/class-admin.php:70
+msgid "6 columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:58
+msgid "Album columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:72
+msgid "Photo columns"
+msgstr ""
+
+#: includes/admin/class-admin.php:78
+msgid "Default : 350 x 350"
+msgstr ""
+
+#: includes/admin/class-admin.php:79
+msgid "Album Cover size"
+msgstr ""
+
+#: includes/admin/class-admin.php:80 includes/admin/class-admin.php:88
+msgid "You will need to regenerate thumbnails once this value is changed"
+msgstr ""
+
+#: includes/admin/class-admin.php:86
+msgid "Default : 250 x 250"
+msgstr ""
+
+#: includes/admin/class-admin.php:87
+msgid "Photo thumbnail size"
+msgstr ""
+
+#: includes/core/class-user-photos-account.php:32
+msgid "My Photos"
+msgstr ""
+
+#: includes/core/class-user-photos-account.php:65
+msgid ""
+"Once photos and albums are deleted, they are deleted permanantly and cannot "
+"be recovered."
+msgstr ""
+
+#: includes/core/class-user-photos-account.php:73
+msgid "Download my photos"
+msgstr ""
+
+#: includes/core/class-user-photos-account.php:80
+msgid "Are you sure to delete all your albums & photos?"
+msgstr ""
+
+#: includes/core/class-user-photos-account.php:82
+msgid "Delete my all albums & photos"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:212
+#: includes/core/class-user-photos-ajax.php:385
+#: includes/core/class-user-photos-ajax.php:558
+#: includes/core/class-user-photos-ajax.php:633
+#: includes/core/class-user-photos-ajax.php:701
+#: includes/core/class-user-photos-ajax.php:777
+msgid "Invalid nonce"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:233
+#: includes/core/class-user-photos-ajax.php:405
+msgid "Album title is required"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:240
+msgid "files are not allowed"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:250
+#: includes/core/class-user-photos-ajax.php:414
+#: includes/core/class-user-photos-ajax.php:419
+#: includes/core/class-user-photos-ajax.php:574
+#: includes/core/class-user-photos-ajax.php:579
+#: includes/core/class-user-photos-ajax.php:646
+#: includes/core/class-user-photos-ajax.php:653
+#: includes/core/class-user-photos-ajax.php:787
+#: includes/core/class-user-photos-ajax.php:851
+msgid "Invalid request"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:659
+msgid "Title is required"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:681
+msgid "Update successfull"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:856
+msgid ""
+"Your download could not be created. It looks like you do not have ZipArchive "
+"installed on your server."
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:946
+msgid "Your image is invalid!"
+msgstr ""
+
+#: includes/core/class-user-photos-ajax.php:962
+msgid "Your image is invalid or too large!"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:32
+msgctxt "Post Type General Name"
+msgid "User Photos"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:33
+msgctxt "Post Type Singular Name"
+msgid "User Album"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:36
+msgid "Item Archives"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:37
+msgid "Item Attributes"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:38
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:39
+msgid "All Items"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:40
+msgid "Add New Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:41
+msgid "Add New"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:42
+msgid "New Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:43
+msgid "Edit Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:44
+msgid "Update Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:45
+msgid "View Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:46
+msgid "View Items"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:47
+msgid "Search Item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:48
+msgid "Not found"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:49
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:50
+msgid "Album Cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:51
+msgid "Set album cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:52
+msgid "Remove album cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:53
+msgid "Use as album cover"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:54
+msgid "Insert into item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:55
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:56
+msgid "Items list"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:57
+msgid "Items list navigation"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:58
+msgid "Filter items list"
+msgstr ""
+
+#: includes/core/class-user-photos-common.php:62
+msgid "Image gallery for Ultimate member Users"
+msgstr ""
+
+#: includes/core/class-user-photos-profile.php:38
+#: includes/core/class-user-photos-profile.php:42
+msgid "Photos"
+msgstr ""
+
+#: includes/core/class-user-photos-profile.php:41
+msgid "Albums"
+msgstr ""
+
+#: um-user-photos.php:39 um-user-photos.php:55
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#: views/modal/add-album.php:3
+msgid "is too large. File should be less than "
+msgstr ""
+
+#: views/modal/add-album.php:7 views/modal/edit-album.php:11
+msgid "Album title"
+msgstr ""
+
+#: views/modal/add-album.php:15 views/modal/edit-album.php:24
+msgid "Album cover"
+msgstr ""
+
+#: views/modal/add-album.php:24 views/modal/edit-album.php:70
+msgid "Add photos"
+msgstr ""
+
+#: views/modal/add-album.php:33
+msgid "Add"
+msgstr ""
+
+#: views/modal/add-album.php:34 views/modal/delete-album.php:19
+#: views/modal/edit-album.php:92 views/modal/edit-image.php:28
+msgid "Cancel"
+msgstr ""
+
+#: views/modal/delete-album.php:6
+msgid "Are you sure to delete this album?"
+msgstr ""
+
+#: views/modal/delete-album.php:16
+msgid "Delete"
+msgstr ""
+
+#: views/modal/edit-album.php:6
+msgid " is too large. File should be less than "
+msgstr ""
+
+#: views/modal/edit-album.php:54
+msgid "Delete photo"
+msgstr ""
+
+#: views/modal/edit-album.php:55
+msgid "Sure to delete photo?"
+msgstr ""
+
+#: views/modal/edit-album.php:90 views/modal/edit-image.php:27
+msgid "Update"
+msgstr ""
+
+#: views/modal/edit-image.php:10
+msgid "Image title"
+msgstr ""
+
+#: views/modal/edit-image.php:20
+msgid "Image caption"
+msgstr ""
+
+#: views/modal/modal.php:7
+msgid "Title"
+msgstr ""
+
+#: views/social-activity/new-album.php:1
+msgid "created a new photo album"
+msgstr ""
+
+#: views/template-parts/album-head.php:11
+msgid "Back"
+msgstr ""
+
+#: views/template-parts/album-head.php:38
+msgid "Edit album"
+msgstr ""
+
+#: views/template-parts/album-head.php:44
+#: views/template-parts/album-head.php:46
+#: views/template-parts/album-head.php:53
+msgid "Delete album"
+msgstr ""
+
+#: views/template-parts/gallery-head.php:7
+#: views/template-parts/gallery-head.php:13
+msgid "New Album"
+msgstr ""
+
+#: views/templates/gallery.php:34
+#, php-format
+msgid "%s Photo"
+msgid_plural "%s Photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/templates/gallery.php:50 views/templates/photos.php:89
+#: views/templates/single-album.php:74
+msgid "Nothing to display"
+msgstr ""
+
+#: views/templates/photos.php:80
+msgid "Load more"
+msgstr ""
+
+#: views/templates/single-album.php:39 views/templates/single-album.php:42
+msgid "Edit Image"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - User Photos"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Let users add albums and photos"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""

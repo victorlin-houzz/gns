@@ -1,0 +1,71 @@
+Version 2.1.0
+
+* Fixed: Completeness profile with empty user meta
+
+Version 2.0.9
+
+* Added: Page restriction via profile completeness
+* Fixed: Use Gravatar disable completeness
+
+Version 2.0.8
+
+* Fixed: Changed role notification
+
+Version 2.0.7
+
+* Fixed: Open modal window for profile completeness widget
+
+Version 2.0.6
+
+* Fixed: Profile Completeness field types progress
+* Optimized: JS/CSS enqueue
+
+Version 2.0.5
+
+* Fixed: JS enqueue
+* Fixed: New translation files
+
+Version 2.0.4
+
+* Fixed: Translations for widget fields
+
+Version 2.0.3
+
+* Fixed: Duplicates IDs in Profile Completeness widget
+* Fixed: Profile Completeness widget
+
+Version 2.0.2
+
+* Added: Loading translation from "wp-content/languages/plugins/" directory
+
+Version 2.0.1
+
+* Tweak: UM2.0 compatibility
+
+Version 1.2.0
+
+* Fixed: Remove error notices
+
+Version 1.1.9
+
+* Fixed: target percentage
+
+Version 1.1.8
+
+* Tweak: compatibility with WP 4.4
+
+Version 1.1.7
+
+* Fixed: WP role sync conflict
+
+Version 1.1.6
+
+* Fixed: compatibility with WordPress 4.3
+
+Version 1.1.1
+
+* Fixed: profile completeness should appear to profile owner only
+
+Version 1.1.0
+
+* Fixed: bug with saving fields in profile completeness modal

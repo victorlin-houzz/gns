@@ -1,0 +1,23 @@
+Version 2.0.4
+
+* Fixed small notice on registration process
+
+Version 2.0.3
+
+* Fixed default text for T&C agreement checkbox
+
+Version 2.0.2
+
+* Added: GDPR compatibility, T&C applied date
+
+Version 2.0.1
+
+* Added: Loading translation from "wp-content/languages/plugins/" directory
+
+Version 2.0
+
+* Tweak: UM2.0 compatibility
+
+Version 1.0.0
+
+* Initial release

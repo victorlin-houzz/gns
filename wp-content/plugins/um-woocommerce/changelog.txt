@@ -1,0 +1,134 @@
+Version 2.1.6
+
+* Added: My Payment Methods account tab
+* Added: My Downloads account tab
+* Fixed: Duplicate fields in Billing/Shipping account tabs
+* Fixed: Date format in Account tabs
+
+Version 2.1.5
+
+* Added: Predefined Billing/Shipping fields
+* Fixed: Change Role assign after subscription status change
+
+Version 2.1.4
+
+* Fixed: changed role notification
+
+Version 2.1.3
+
+* Fixed: AJAX vulnerabilities
+* Optimized: JS/CSS enqueue
+
+Version 2.1.2
+
+* Fixed: JS on the subscription table
+
+Version 2.1.1
+
+* Fixed: Date displaying in the Orders table;
+
+Version 2.1.0
+
+* Optimized: JS/CSS enqueue
+
+Version 2.0.9
+
+* Fixed: Multi Approves
+
+Version 2.0.8
+
+* Fixed: New translate file
+* Fixed: Change role on user canceling a subscription
+
+Version 2.0.7
+
+* Fixed: WP native AJAX handlers
+
+Version 2.0.6
+
+* Fixed: Templates include logic
+* Fixed: View Subscription screen
+
+Version 2.0.5
+
+* Fixed: Account Billing/Shipping Forms Validation
+
+Version 2.0.4
+
+* Fixed: Save Account Forms
+
+Version 2.0.3
+
+* Added: Loading translation from "wp-content/languages/plugins/" directory
+
+Version 2.0.2
+
+* Fixed: add/change role on product purchase
+* Fixed: change role on product refund
+
+Version 2.0.1
+
+* Fixed: Subscriptions and Membership Area integrations
+* Fixed: displaying of “Total Orders” and “Total Spent” in Member Directories
+* Tweak: UM2.0 compatibility
+
+Version 1.0.11
+* New: WooCommerce Subscription add-on compatibility
+* New: WooCommerce Sequential Order Number add-on compatibility
+* Tweaked: Update EDD Plugin updater library
+* Fixed: Reset cache after completed purchase
+* Fixed: Account fields security
+* Fixed: Fatal errors in editing account page
+* Fixed: Orders pagination in account page
+* Fixed: Remove notices
+
+Version 1.0.10
+* Added: new options to hide shipping and billing tabs
+* Added: shortcode support
+* Added: translatins for save address
+* Added: options to hide purchases/reviews from other members
+* Added: new action hooks 'um_woocommerce_orders_tab_before_table_header_row' & 'um_woocommerce_orders_tab_after_table_header_row'
+* Fixed: Fix woocommerce billing text fields
+* Fixed: buttons translation
+* Fixed: license and updater
+* Fixed: remove notices
+* Fixed: saving billing and shipping form fields
+
+Version 1.0.9
+
+* Fixed: Fix woocommerce billing text fields
+
+Version 1.0.8
+
+* Tweak: Plugin updater updated to latest version
+* Tweak: Remove notes
+* Fixed: Add select2 to billing and shipping country and state
+
+Version 1.0.7
+
+* Tweak: sync billing data from wc to um profile
+* Tweak: sync um profile to woocommerce billing
+
+Version 1.0.6
+
+* Tweak: compatibility with WP 4.4
+
+Version 1.0.5
+
+* Fixed: bug with account details update
+
+Version 1.0.4
+
+* Fixed: WP Multisite invalid notice issue
+
+Version 1.0.3
+
+* Fixed: blank account page after WooCommerce update
+
+Version 1.0.2
+
+* Fixed: issues with billing/shipping update
+
+Version 1.0.1
+
+* Fixed: Issue with billing details update

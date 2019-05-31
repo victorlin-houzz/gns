@@ -1,0 +1,74 @@
+Version 2.1.4
+
+* Added: Invites groups list
+
+Version 2.1.3
+
+* Fixed: Wordpress.com compatibility
+
+Version 2.1.2
+
+* Added: Filter to Invites tab
+* Added: Danish translation
+* Fixed: Some responsive styles
+* Fixed: Loading textdomain
+
+Version 2.1.1
+
+* Fixed: Upload Dir handler
+* Fixed: German translates
+* Fixed: Default value for group selectbox
+
+Version 2.1.0
+
+* Fixed: Show more group members
+* Fixed: Small PHP notices
+* Fixed: CSS for templates
+
+Version 2.0.9
+
+* Fixed: Approve group users via front end
+* Fixed: JS enqueue
+
+Version 2.0.8
+
+* Fixed: JS issues on Add/Edit group activity post and like
+
+Version 2.0.7
+
+* Fixed: Fatal Error on some installs
+
+Version 2.0.6
+
+* Fixed: Group description publishing
+* Fixed: Group discussion likes
+
+Version 2.0.5
+
+* Fixed: Displaying hidden groups at the groups list
+
+Version 2.0.4
+
+* Fixed: Hide group discussions and members for non-logged in users
+* Fixed: See more button not working issue
+* Fixed: Delete group member on user delete action
+* Fixed: Remove deprecated functions
+
+Version 2.0.3
+
+* Fixed: is image functions
+* Fixed: style for small devices
+* Fixed: avatars in add member to the group
+
+Version 2.0.2
+
+* Fixed: Scripts Enqueue
+* Fixed: PHP notice on Invites tab
+
+Version 2.0.1
+
+* Fixed: Yoast SEO compatibility with UM:Groups templates
+
+Version 2.0
+
+* Initial Release

@@ -1,0 +1,1 @@
+<a href="{author_profile}" class="um-link" target="_blank">{author_name}</a> <?php _e('created a new photo album','um-user-photos');?> <a href="{post_url}" class="um-link" target="_blank"><strong>{post_title}</strong></a>. <span style="padding-bottom:0;" class="post-meta"><a href="{post_url}" class="um-link" target="_blank">{post_image}{post_excerpt}</a></span>

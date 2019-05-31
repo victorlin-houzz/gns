@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - myCRED\n"
+"POT-Creation-Date: 2018-12-07 14:40+0200\n"
+"PO-Revision-Date: 2018-12-07 14:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-mycred.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/templates/role/mycred.php:13
+msgid "Can transfer points to other members?"
+msgstr ""
+
+#: includes/admin/templates/role/mycred.php:19
+msgid "Can not receive points from other members?"
+msgstr ""
+
+#: includes/core/actions/um-mycred-admin.php:15
+#: includes/core/filters/um-mycred-settings.php:24
+msgid "myCRED"
+msgstr ""
+
+#: includes/core/actions/um-mycred-admin.php:35
+msgid "Most MyCRED Points"
+msgstr ""
+
+#: includes/core/actions/um-mycred-admin.php:36
+msgid "Least MyCRED Points"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:43
+msgid "Invalid amount."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:47
+msgid "That user can not receive points."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:51
+msgid "The user does not exist."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:55
+msgid "You do not have enough balance."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:59
+msgid "You can not transfer points to yourself."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:63
+msgid "You are not allowed to transfer points."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:81
+msgid "Points transferred successfully"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:98
+#: includes/core/class-mycred-account.php:99
+msgid "My Points"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:122
+msgid "My Balance"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:130
+msgid "Transfer Balance"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:133
+#, php-format
+msgid "You can transfer up to %s points to another user."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:135
+msgid "Username, e-mail, or ID"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:137
+msgid "Enter amount below"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:140
+msgid "Confirm Transfer"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:142
+msgid "This is not reversible once you click confirm transfer."
+msgstr ""
+
+#: includes/core/class-mycred-account.php:152
+msgid "My Referral Link"
+msgstr ""
+
+#: includes/core/class-mycred-account.php:199
+#, php-format
+msgid "Add %s points to your balance by connecting to this network."
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:33
+#: includes/core/filters/um-mycred-settings.php:79
+msgid "User awarded points for action"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:34
+#: includes/core/filters/um-mycred-settings.php:80
+msgid ""
+"You have received <strong>{mycred_points}</strong> for <strong>{mycred_task}"
+"</strong>"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:35
+#: includes/core/filters/um-mycred-settings.php:81
+msgid "When I receive points by completing an action"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:39
+#: includes/core/filters/um-mycred-settings.php:85
+msgid "User deducted points for action"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:40
+#: includes/core/filters/um-mycred-settings.php:86
+msgid ""
+"<strong>{mycred_points}</strong> deduction for <strong>{mycred_task}</strong>"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:41
+#: includes/core/filters/um-mycred-settings.php:87
+msgid "Points deducted when incompleted an action"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:45
+#: includes/core/filters/um-mycred-settings.php:91
+msgid "User receives points from another person"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:46
+#: includes/core/filters/um-mycred-settings.php:92
+msgid ""
+"You have just got <strong>{mycred_points}</strong> from "
+"<strong>{mycred_sender}</strong>"
+msgstr ""
+
+#: includes/core/class-mycred-setup.php:47
+#: includes/core/filters/um-mycred-settings.php:93
+msgid "When I receive points balance from another member"
+msgstr ""
+
+#: includes/core/filters/um-mycred-fields.php:14
+#: includes/core/filters/um-mycred-fields.php:17
+msgid "myCRED Balance"
+msgstr ""
+
+#: includes/core/filters/um-mycred-fields.php:25
+#: includes/core/filters/um-mycred-fields.php:28
+msgid "myCRED Progress"
+msgstr ""
+
+#: includes/core/filters/um-mycred-fields.php:38
+#: includes/core/filters/um-mycred-fields.php:41
+msgid "myCRED Badges"
+msgstr ""
+
+#: includes/core/filters/um-mycred-fields.php:51
+#: includes/core/filters/um-mycred-fields.php:54
+msgid "myCRED Rank"
+msgstr ""
+
+#: includes/core/filters/um-mycred-fields.php:203
+msgid "Most Points"
+msgstr ""
+
+#: includes/core/filters/um-mycred-fields.php:204
+msgid "Least Points"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:15
+msgid "myCRED License Key"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:30
+msgid "Width / height of badge in pixels"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:31
+msgid "Badges appearing in profile tab"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:37
+msgid "Account Tab"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:38
+msgid "Show or hide an account tab that shows the user balance"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:43
+msgid "Show user affiliate link in account page"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:48
+msgid "Show user badges in profile header?"
+msgstr ""
+
+#: includes/core/filters/um-mycred-settings.php:53
+msgid "Number of decimals to allow in balance"
+msgstr ""
+
+#: includes/core/filters/um-mycred-tabs.php:20
+msgid "Badges"
+msgstr ""
+
+#: includes/core/filters/um-mycred-tabs.php:59
+msgid "Your Badges"
+msgstr ""
+
+#: includes/core/filters/um-mycred-tabs.php:59
+#, php-format
+msgid "%s's Badges"
+msgstr ""
+
+#: includes/core/filters/um-mycred-tabs.php:60
+msgid "All Badges"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-account.php:88
+#: includes/core/hooks/um-mycred-login.php:89
+#: includes/core/hooks/um-mycred-member-directory.php:94
+#: includes/core/hooks/um-mycred-profile.php:254
+#: includes/core/hooks/um-mycred-register.php:88
+msgid "Log template"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-account.php:95
+#: includes/core/hooks/um-mycred-login.php:97
+#: includes/core/hooks/um-mycred-member-directory.php:101
+#: includes/core/hooks/um-mycred-profile.php:261
+#: includes/core/hooks/um-mycred-register.php:95
+msgid "Limit"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-hooks.php:13
+msgid "UM - Updating Account"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-hooks.php:14
+msgid "UM - Logging Into Site"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-hooks.php:15
+msgid "UM - Using Search Member Form"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-hooks.php:16
+msgid "UM - Uploading Profile Photo"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-hooks.php:17
+msgid "UM - Uploading Cover Photo"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-hooks.php:18
+msgid "UM - Updating Profile"
+msgstr ""
+
+#: includes/core/hooks/um-mycred-hooks.php:19
+msgid "UM - Completing Registration"
+msgstr ""
+
+#: includes/core/um-mycred-init.php:253
+#, php-format
+msgid "%s point"
+msgid_plural "%s points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/core/um-mycred-init.php:319
+#, php-format
+msgid "Earned %s via Ultimate Member( %s )"
+msgstr ""
+
+#: templates/badges.php:75
+#, php-format
+msgid "%s - Level %s"
+msgstr ""
+
+#: templates/badges.php:90
+#, php-format
+msgctxt "\"Gained/Lost\" \"x points\" for \"reference\""
+msgid "&#013;&#10;%s %s for \"%s\""
+msgstr ""
+
+#: templates/badges.php:90 templates/badges.php:92
+msgid "Lost"
+msgstr ""
+
+#: templates/badges.php:90
+msgid "Gained"
+msgstr ""
+
+#: templates/badges.php:92
+#, php-format
+msgctxt "\"Gain/Lost\" \"x points\" for \"reference\""
+msgid "&#013;&#10;%s %s for \"%s\""
+msgstr ""
+
+#: templates/badges.php:92
+msgid "Gain"
+msgstr ""
+
+#: um-mycred.php:38 um-mycred.php:54
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#: um-mycred.php:62
+#, php-format
+msgid ""
+"Sorry. You must activate the <strong>myCRED</strong> plugin to use the %s."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - myCRED"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrates myCRED points management system with Ultimate Member."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""

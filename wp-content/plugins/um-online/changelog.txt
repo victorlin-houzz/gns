@@ -1,0 +1,28 @@
+= Important: 2.0.5 version is compatible with UM: Private Messages 2.1.7+ version =
+
+Version 2.0.5
+
+* Fixed: Online status for conversations
+
+Version 2.0.4
+
+* Fixed: Privacy account settings for sites with different languages
+* Fixed: Displaying online icon on profile page
+
+Version 2.0.3
+
+* Added: GDPR compatibility
+* Fixed: Display online field settings in privacy tab account
+
+Version 2.0.2
+
+* Fixed version
+
+Version 2.0.1
+
+* Added: Loading translation from "wp-content/languages/plugins/" directory
+* Fixed: Online Users shortcode
+
+Version 2.0
+
+* Tweak: UM2.0 compatibility

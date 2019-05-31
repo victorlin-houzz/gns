@@ -1,0 +1,59 @@
+Version 2.1.1
+
+* Tweak: Future released extensions compatibility
+* Fixed biography description in layout
+
+Version 2.1.0
+
+* Tweak: Wordpress.com compatibility
+
+Version 2.0.9
+
+* Added: Friends mentions in social activity
+* Tweak: correct dbDelta syntax
+
+Version 2.0.8
+
+* Added: Hook for displaying "Friends" button
+
+Version 2.0.7
+
+* Fixed: AJAX vulnerabilities
+* Optimized: JS/CSS enqueue
+
+Version 2.0.6
+
+* Added: User Groups Integration
+
+Version 2.0.5
+
+* Fixed: WP native AJAX handlers
+
+Version 2.0.4
+
+* Fixed: Backward compatibility for Privacy Settings
+
+Version 2.0.3
+
+* Fixed: Privacy account settings for sites with different languages
+
+Version 2.0.2
+
+* GDPR compatibility on delete users
+
+Version 2.0.1
+
+* Fixed sorting members directory by “most friends” and “least friends”
+* Fixed allow admin to edit friends only profile
+* Tweak: UM2.0 compatibility
+
+Version 1.0.1
+
+* Added: English Translation files
+* Fixed: Remove notices from ajax requests
+* Fixed: Plugin updater
+* Fixed: Friend request count
+
+Version 1.0.0
+
+* Initial release

@@ -1,0 +1,6 @@
+[09-May-2019 05:34:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/giveands/public_html/wp-content/themes/um-theme/inc/customizer.php on line 70
+[13-May-2019 22:20:44 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, boolean given in /home/giveands/public_html/wp-content/plugins/um-user-tags/includes/core/actions/um-user-tags-profile.php on line 116
+[13-May-2019 22:20:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/giveands/public_html/wp-content/plugins/um-user-tags/includes/core/actions/um-user-tags-profile.php on line 118
+[16-May-2019 03:29:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/giveands/public_html/wp-content/plugins/um-groups/includes/core/actions/um-groups-admin.php on line 114
+[22-May-2019 22:20:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/giveands/public_html/wp-content/plugins/um-groups/includes/core/actions/um-groups-admin.php on line 114
+[22-May-2019 22:22:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/giveands/public_html/wp-content/plugins/um-groups/includes/core/actions/um-groups-admin.php on line 114

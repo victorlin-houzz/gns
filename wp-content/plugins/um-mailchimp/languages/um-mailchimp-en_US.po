@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - MailChimp\n"
+"POT-Creation-Date: 2018-12-07 14:04+0200\n"
+"PO-Revision-Date: 2018-12-07 14:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: um-mailchimp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/templates/list.php:18
+msgid "Connected to Mailing List ID"
+msgstr ""
+
+#: includes/admin/templates/list.php:26
+msgid "Choose a list"
+msgstr ""
+
+#: includes/admin/templates/list.php:27
+msgid "Choose a list from your MailChimp account"
+msgstr ""
+
+#: includes/admin/templates/list.php:37
+msgid "Enable this MailChimp list"
+msgstr ""
+
+#: includes/admin/templates/list.php:38
+msgid ""
+"Turn on or off this list globally. If enabled the list will be available in "
+"user account page."
+msgstr ""
+
+#: includes/admin/templates/list.php:45
+#: includes/core/filters/um-mailchimp-settings.php:43
+msgid "Enable double opt-in"
+msgstr ""
+
+#: includes/admin/templates/list.php:46
+#: includes/core/filters/um-mailchimp-settings.php:44
+msgid ""
+"Send contacts an opt-in confirmation email when they subscribe to your list."
+msgstr ""
+
+#: includes/admin/templates/list.php:49
+msgid "Default"
+msgstr ""
+
+#: includes/admin/templates/list.php:50
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/templates/list.php:51
+msgid "No"
+msgstr ""
+
+#: includes/admin/templates/list.php:57
+msgid "List Description in Account Page"
+msgstr ""
+
+#: includes/admin/templates/list.php:58
+msgid ""
+"This text will be displayed in Account > Notifications to encourage user to "
+"sign or know what this list is about"
+msgstr ""
+
+#: includes/admin/templates/list.php:64
+msgid "List Description in Registration"
+msgstr ""
+
+#: includes/admin/templates/list.php:65
+msgid ""
+"This text will be displayed in register form if you enable this mailing list "
+"to be available during signup"
+msgstr ""
+
+#: includes/admin/templates/list.php:71
+msgid "Automatically add new users to this list"
+msgstr ""
+
+#: includes/admin/templates/list.php:72
+msgid ""
+"If turned on users will automatically be subscribed to this when they "
+"register. When turned on this list will not show on register form even if "
+"you add MailChimp field to register form."
+msgstr ""
+
+#: includes/admin/templates/list.php:80
+msgid "Which roles can subscribe to this list"
+msgstr ""
+
+#: includes/admin/templates/list.php:81
+msgid ""
+"Select which roles can subscribe to this list. Users who cannot subscribe to "
+"this list will not see this list on their account page."
+msgstr ""
+
+#: includes/admin/templates/merge.php:15
+msgid "Ignore this field"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:1
+msgid "Connection status"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:11
+#, php-format
+msgid ""
+"Your site is successfully <strong><span class=\"ok\">linked</span></strong> "
+"to <strong>%s</strong> MailChimp account."
+msgstr ""
+
+#: includes/admin/templates/metabox.php:16
+msgid "Account status"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:20
+#, php-format
+msgid "%d subscriber"
+msgid_plural " %d subscribers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/templates/metabox.php:21
+#, php-format
+msgid "%d Mailchimp list"
+msgid_plural "%d Mailchimp lists"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/templates/metabox.php:24
+#, php-format
+msgid "%d UM Mailchimp list"
+msgid_plural "%d UM Mailchimp lists"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/templates/metabox.php:29
+#: includes/admin/templates/metabox.php:64
+msgid "All Lists"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:34
+msgid "Sync Now"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:50
+msgid "All Roles"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:56
+msgid "All Status"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:61
+msgid "Scan Now"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:69
+msgid "Opt-in now"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:82
+msgid "Sync Profiles"
+msgstr ""
+
+#: includes/admin/templates/metabox.php:85
+msgid "Bulk Opt-in"
+msgstr ""
+
+#: includes/admin/templates/test-connection.php:4
+msgid "Test subscribe"
+msgstr ""
+
+#: includes/admin/templates/test-connection.php:5
+msgid "Test update"
+msgstr ""
+
+#: includes/admin/templates/test-connection.php:6
+msgid "Test unsubscribe"
+msgstr ""
+
+#: includes/admin/templates/test-connection.php:7
+msgid "Test delete"
+msgstr ""
+
+#: includes/admin/templates/test-connection.php:18
+msgid "Email"
+msgstr ""
+
+#: includes/admin/templates/test-connection.php:56
+msgid "S"
+msgstr ""
+
+#: includes/core/actions/um-mailchimp-fields.php:18
+msgid "Select a List"
+msgstr ""
+
+#: includes/core/actions/um-mailchimp-fields.php:18
+msgid "You can set up lists or integrations in Ultimate Member > MailChimp"
+msgstr ""
+
+#: includes/core/actions/um-mailchimp-fields.php:40
+msgid "Automatically add users to this list on form submit"
+msgstr ""
+
+#: includes/core/actions/um-mailchimp-fields.php:41
+msgid ""
+"If turned on users will be subscribed to list on form submit. When turned on "
+"this list will not be shown on form."
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:58
+msgid "Setup List"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:67
+msgid "Merge User Meta"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:76
+msgid "Testing connection with Mailchimp server"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:154
+#, php-format
+msgid ""
+"You must add your <strong>MailChimp API</strong> key before connecting your "
+"newsletter lists. <a href=\"%s\">Hide this notice</a>"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:158
+msgid "Setup MailChimp API"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:172
+msgid "Title"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:173
+msgid "Connection"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:174
+msgid "Status"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:175
+msgid "Automatic Signup"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:176
+msgid "List ID"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:177
+msgid "Subscribers"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:178
+msgid "Roles"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:201
+msgid "List found"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:204
+msgid "Unknown list"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:211
+#: includes/core/class-mailchimp-admin.php:220
+msgid "Active"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:213
+#: includes/core/class-mailchimp-admin.php:335
+msgid "Inactive"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:222
+msgid "Manual"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:238
+msgid "Everyone"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:310
+#: includes/core/class-mailchimp-admin.php:383
+#: includes/core/filters/um-mailchimp-fields.php:58
+#: includes/core/filters/um-mailchimp-settings.php:23
+#: includes/core/um-mailchimp-init.php:134
+#: includes/core/um-mailchimp-init.php:135
+msgid "MailChimp"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:332
+msgid "Approved"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:333
+msgid "Awaiting Admin Review"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:334
+msgid "Awaiting Email Confirmation"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:336
+msgid "Rejected"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:339
+msgid "Starting synchronization..."
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:340
+msgid "Checking subscription status..."
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:341
+msgid "Opt-in users... 0%"
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:342
+msgid "Syncronization..."
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:343
+msgid "Processing..."
+msgstr ""
+
+#: includes/core/class-mailchimp-admin.php:361
+msgid "e.g. My First Mailing List"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:17
+#: includes/core/class-mailchimp-ajax.php:24
+#: includes/core/class-mailchimp-ajax.php:52
+#: includes/core/class-mailchimp-ajax.php:59
+#: includes/core/class-mailchimp-ajax.php:87
+#: includes/core/class-mailchimp-ajax.php:94
+#: includes/core/class-mailchimp-ajax.php:116
+#: includes/core/class-mailchimp-ajax.php:123
+msgid "Please enter email"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:165
+#: includes/core/class-mailchimp-ajax.php:191
+msgid "User list is empty"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:187
+msgid "0 new subscribers"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:187
+msgid "0 new profile updates"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:214
+msgid "0 new unsubscribers"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:218
+msgid "Done"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:222
+msgid "Wrong queue action"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:232
+#: includes/core/class-mailchimp-func.php:806
+#: includes/core/class-mailchimp-func.php:810
+#: includes/core/class-mailchimp-func.php:850
+msgid "Wrong list"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:235
+#: includes/core/class-mailchimp-ajax.php:321
+msgid "Empty list ID"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:284
+#: includes/core/class-mailchimp-ajax.php:348
+msgid "Completed"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:286
+#: includes/core/class-mailchimp-ajax.php:350
+#, php-format
+msgid "Processed... %s"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:294
+msgid "You don't have any users"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:312
+#, php-format
+msgid "%d user was selected"
+msgid_plural "%d users were selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/core/class-mailchimp-ajax.php:325
+msgid "Empty key"
+msgstr ""
+
+#: includes/core/class-mailchimp-ajax.php:341
+msgid "Empty users list"
+msgstr ""
+
+#: includes/core/class-mailchimp-func.php:528
+#, php-format
+msgid ""
+"<a href=\"%s\"><strong>Please enter your valid API key</strong></a> in "
+"settings."
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-account.php:16
+msgid "Notifications"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-account.php:17
+msgid "Update Notifications"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-account.php:44
+msgid "Email Newsletters"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-fields.php:65
+msgid "You must provide a title"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:14
+msgid "MailChimp License Key"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:28
+msgid "MailChimp API Key"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:29
+msgid ""
+"The MailChimp API Key is required and enables you access and integration "
+"with your lists."
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:36
+msgid "Remove subscriber from Mailchimp list when user unsubscribed"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:37
+msgid "If set option then subscriber will be removed from Mailchimp list"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:50
+msgid "Enable requests log"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:51
+msgid ""
+"Log all requests to mailchimp server and save to wp-content/uploads/"
+"ultimatemember/mailchimp.log."
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:72
+msgid "Clear log"
+msgstr ""
+
+#: includes/core/filters/um-mailchimp-settings.php:166
+msgid "Mailchimp Subscription"
+msgstr ""
+
+#: includes/core/um-mailchimp-init.php:136
+#: includes/core/um-mailchimp-init.php:137
+msgid "Add New List"
+msgstr ""
+
+#: includes/core/um-mailchimp-init.php:138
+msgid "Edit List"
+msgstr ""
+
+#: includes/core/um-mailchimp-init.php:139
+msgid "You did not create any MailChimp lists yet"
+msgstr ""
+
+#: includes/core/um-mailchimp-init.php:140
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: includes/core/um-mailchimp-init.php:141
+msgid "Search MailChimp lists"
+msgstr ""
+
+#: um-mailchimp.php:38 um-mailchimp.php:54
+#, php-format
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ultimate Member - MailChimp"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://ultimatemember.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Integrates Ultimate Member with MailChimp newsletters."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ultimate Member"
+msgstr ""
